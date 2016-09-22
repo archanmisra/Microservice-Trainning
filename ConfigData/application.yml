@@ -1,5 +1,6 @@
 ---
 # Items that apply to ALL profiles:
+#Testing for my application
 eureka:
   client:
     serviceUrl:
